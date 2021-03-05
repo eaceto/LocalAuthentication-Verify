@@ -1,4 +1,4 @@
-# LocalAuthentication-verify
+# LocalAuthentication Verify
 A CLI tool to verify user's credential using Biometry, Watch or Password. Useful for other other apps wanting to use Local Authentication as a unlock method.
 
 ## Installation
